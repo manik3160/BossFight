@@ -1,0 +1,5 @@
+{"timestamp":"00:00:03.187","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:29.544","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:52.323","source":"Browser","level":"LOG","message":"     Phaser v3.90.0 (WebGL | Web Audio)  https://phaser.io/v390"}
+{"timestamp":"00:01:14.046","source":"Browser","level":"LOG","message":"     Phaser v3.90.0 (WebGL | Web Audio)  https://phaser.io/v390"}
+{"timestamp":"00:04:09.711","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
