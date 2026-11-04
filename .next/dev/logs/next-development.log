@@ -1,5 +1,12 @@
-{"timestamp":"00:00:03.187","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:29.544","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:52.323","source":"Browser","level":"LOG","message":"     Phaser v3.90.0 (WebGL | Web Audio)  https://phaser.io/v390"}
-{"timestamp":"00:01:14.046","source":"Browser","level":"LOG","message":"     Phaser v3.90.0 (WebGL | Web Audio)  https://phaser.io/v390"}
-{"timestamp":"00:04:09.711","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:05.107","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:07.991","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"/Users/manik/Documents/Game/node_modules/postcss/package.json\")."}
+{"timestamp":"00:00:09.785","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:11.805","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:17.684","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:31.515","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:36.791","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:38.826","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:41.860","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:51.622","source":"Browser","level":"LOG","message":"     Phaser v3.90.0 (WebGL | Web Audio)  https://phaser.io/v390"}
+{"timestamp":"00:01:25.103","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:01:26.143","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
